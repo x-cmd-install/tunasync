@@ -12,43 +12,7 @@ Mirror job management tool.
 x install tunasync
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/tuna/tunasync>
-- **License**: GPL-3.0
-
-## Release
-
-- **Latest**: `v0.10.0` (2026-04-13)
-- **Last commit**: 2026-05-15
-- **Assets in release**: 4
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [tunasync-v0.10.0-linux-amd64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-amd64-bin.tar.gz) | 29.8 MiB | `native/linux/x64` |
-| [tunasync-v0.10.0-linux-arm64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-arm64-bin.tar.gz) | 27.2 MiB | `native/linux/arm64` |
-| [tunasync-v0.10.0-linux-loong64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-loong64-bin.tar.gz) | 28.2 MiB | `native/unknown` |
-| [tunasync-v0.10.0-linux-riscv64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-riscv64-bin.tar.gz) | 28.4 MiB | `native/linux/riscv64` |
-
-## Popularity
-
-- **Stars**: 1,863 · **Forks**: 305 · **Open issues**: 128 · **Contributors**: 29
-
-## Totals (cumulative)
-
-- **Releases**: 30 · **Merged PRs**: 65 · **Open PRs**: 5 · **Closed issues**: 119 · **Open issues**: 9 · **Commits**: 536
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 1 | 3 | 5 | 1 | 0 | 17 |
-
-## Code size
+## Code insight
 
 Total: **152,984** lines of code across **70** files in the top 5 languages.
 
@@ -70,6 +34,45 @@ Lowest-scoring checks:
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/tuna/tunasync>
+- **License**: GPL-3.0
+
+## Release
+
+- **Latest**: `v0.10.0` (2026-04-13)
+- **Last commit**: 2026-05-15
+- **Assets in release**: 4
+
+## Popularity
+
+- **Stars**: 1,863 · **Forks**: 305 · **Open issues**: 128 · **Contributors**: 29
+
+## Totals (cumulative)
+
+- **Releases**: 30 · **Merged PRs**: 65 · **Open PRs**: 5 · **Closed issues**: 119 · **Open issues**: 9 · **Commits**: 536
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 1 | 3 | 5 | 0 | 0 | 17 |
+| 360d | 2025-09-15 | 1 | 3 | 5 | 1 | 0 | 17 |
+| last720d | 2024-09-20 | 5 | 7 | 5 | 9 | 0 | 60 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tunasync-v0.10.0-linux-amd64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-amd64-bin.tar.gz) | 29.8 MiB | `native/linux/x64` |
+| [tunasync-v0.10.0-linux-arm64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-arm64-bin.tar.gz) | 27.2 MiB | `native/linux/arm64` |
+| [tunasync-v0.10.0-linux-loong64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-loong64-bin.tar.gz) | 28.2 MiB | `native/unknown` |
+| [tunasync-v0.10.0-linux-riscv64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-riscv64-bin.tar.gz) | 28.4 MiB | `native/linux/riscv64` |
+
 ## Improve this data
 
 Install metadata for tunasync lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tunasync` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -79,4 +82,4 @@ Install metadata for tunasync lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:52:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:33:43Z._
