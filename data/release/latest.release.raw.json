@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 31285949,
       "digest": "sha256:a0fd99e18b9b04c1b30e610d24915ab3a1d5cfdb669358659a7719815e651411",
-      "download_count": 262,
+      "download_count": 263,
       "created_at": "2026-04-13T14:07:44Z",
       "updated_at": "2026-04-13T14:07:46Z",
       "browser_download_url": "https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-amd64-bin.tar.gz"
