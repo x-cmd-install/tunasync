@@ -4,7 +4,7 @@
 
 Mirror job management tool. 
 
-![tunasync](https://repo.x-cmd.io/tunasync.svg)
+![tunasync](https://repo.x-cmd.io/tunasync.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,15 @@ x install tunasync
 - **最新版本**: `v0.10.0` (2026-04-13)
 - **最近提交**: 2026-05-15
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-04-13T14:07:47Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [tunasync-v0.10.0-linux-amd64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-amd64-bin.tar.gz) | 29.8 MiB | `native/linux/x64` |
+| [tunasync-v0.10.0-linux-arm64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-arm64-bin.tar.gz) | 27.2 MiB | `native/linux/arm64` |
+| [tunasync-v0.10.0-linux-loong64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-loong64-bin.tar.gz) | 28.2 MiB | `native/unknown` |
+| [tunasync-v0.10.0-linux-riscv64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-riscv64-bin.tar.gz) | 28.4 MiB | `native/linux/riscv64` |
 
 ## 流行度
 
@@ -71,4 +79,4 @@ tunasync 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:18:38Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:52:36Z._

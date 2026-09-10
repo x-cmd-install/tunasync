@@ -22,7 +22,15 @@ x install tunasync
 - **Latest**: `v0.10.0` (2026-04-13)
 - **Last commit**: 2026-05-15
 - **Assets in release**: 4
-- **Published**: 2026-04-13T14:07:47Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tunasync-v0.10.0-linux-amd64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-amd64-bin.tar.gz) | 29.8 MiB | `native/linux/x64` |
+| [tunasync-v0.10.0-linux-arm64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-arm64-bin.tar.gz) | 27.2 MiB | `native/linux/arm64` |
+| [tunasync-v0.10.0-linux-loong64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-loong64-bin.tar.gz) | 28.2 MiB | `native/unknown` |
+| [tunasync-v0.10.0-linux-riscv64-bin.tar.gz](https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-riscv64-bin.tar.gz) | 28.4 MiB | `native/linux/riscv64` |
 
 ## Popularity
 
@@ -67,8 +75,8 @@ Lowest-scoring checks:
 Install metadata for tunasync lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tunasync` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tunasync.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tunasync.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:18:38Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:52:35Z._
