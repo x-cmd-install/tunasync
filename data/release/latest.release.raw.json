@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 31285949,
       "digest": "sha256:a0fd99e18b9b04c1b30e610d24915ab3a1d5cfdb669358659a7719815e651411",
-      "download_count": 265,
+      "download_count": 267,
       "created_at": "2026-04-13T14:07:44Z",
       "updated_at": "2026-04-13T14:07:46Z",
       "browser_download_url": "https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-amd64-bin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 29527307,
       "digest": "sha256:67f2df9a96988322bc261c765798752addbcda036b7dc0eff58d97db6a25a132",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-04-13T14:07:44Z",
       "updated_at": "2026-04-13T14:07:46Z",
       "browser_download_url": "https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-loong64-bin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 29816178,
       "digest": "sha256:e5407e2826f724536ee1112053c6e705b6014d44f403c21a22655c8afae14cc8",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-04-13T14:07:44Z",
       "updated_at": "2026-04-13T14:07:46Z",
       "browser_download_url": "https://github.com/tuna/tunasync/releases/download/v0.10.0/tunasync-v0.10.0-linux-riscv64-bin.tar.gz"
