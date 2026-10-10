@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,869 · **Forks**: 305 · **Open issues**: 128 · **Contributors**: 29
+- **Stars**: 1,868 · **Forks**: 305 · **Open issues**: 128 · **Contributors**: 29
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-10 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-07-11 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-04-12 | 1 | 3 | 5 | 0 | 0 | 4 |
-| 360d | 2025-10-14 | 1 | 3 | 5 | 0 | 0 | 17 |
-| last720d | 2024-10-19 | 5 | 7 | 5 | 9 | 0 | 57 |
+| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-07-12 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-04-13 | 1 | 1 | 5 | 0 | 0 | 0 |
+| 360d | 2025-10-15 | 1 | 3 | 5 | 0 | 0 | 0 |
+| last720d | 2024-10-20 | 5 | 7 | 5 | 9 | 0 | 57 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for tunasync lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:44:29Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:19:33Z._
